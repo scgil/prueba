@@ -5,5 +5,5 @@ Sabes lo que hay qué hacer?
 Creo qué sí.
 No lo tengo muy claro.
 
-Estoy creando una feature de comentarios que tiene fallos grabes de hortografia.
-Pero seran grabisimos.
+Estoy creando una feature de comentarios que tiene no tiene fallos de ortografía.
+Pero si existe alguno, será de los muy leves...
